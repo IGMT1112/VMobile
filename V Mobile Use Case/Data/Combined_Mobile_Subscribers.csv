@@ -1,0 +1,414 @@
+Region,Cell Phone Number,SIM Activation Date,First Name,Last Name,Date of Birth,Source System Name
+Johannesburg,27701302724,10 01 2024,Sibonelo,Jiyane,31 05 1965,VMobile
+Pretoria,27702088773,15 11 2024,Gugulethu,Dimbani,17 11 1976,VMobile
+West Rand,27702970958,16 04 2025,Nokulunga,Mhlungu,11 03 1977,VMobile
+Port Elizabeth,27703320064,10 04 2024,Owethu,Khanyile,11 07 1997,VMobile
+Cape Town,27704131178,22 09 2024,Lindsay,Blair,31 01 1976,VMobile
+Port Elizabeth,27704753382,06 08 2024,Nomathalente,Shoba,06 09 1962,VMobile
+Durban,27705752990,02 08 2023,Andrea,Calderon,06 09 1981,VMobile
+Pretoria,27706327368,24 06 2024,Henry,Smith,01 02 1949,VMobile
+Witbank,27706833765,14 01 2025,Michael,Galloway,29 06 1994,VMobile
+Port Elizabeth,27707347477,24 08 2023,David,Nielsen,14 12 1944,VMobile
+Pietermaritzburg,27707848987,21 10 2024,Nicole,Ward,04 09 1952,VMobile
+Port Elizabeth,27709050860,01 12 2024,Andile,Mangethe,30 07 2002,VMobile
+Johannesburg,27709367729,02 02 2024,Carlos,Johnson,28 01 1962,VMobile
+Cape Town,27710091970,09 05 2024,Londiwe,Mabhoko,01 12 1940,VMobile
+Benoni,27711214656,10 09 2023,Lungile,Shozi,09 11 1970,VMobile
+Polokwane,27711572067,04 10 2024,Mitchell,Clark,04 10 1957,VMobile
+Johannesburg,27711810165,23 08 2024,Thando,Vilakazi,01 07 1962,VMobile
+Bloemfontein,27712305098,29 05 2024,William,Wilson,10 10 1941,VMobile
+Ekurhuleni,27713173581,13 05 2025,Julia,Howard,06 03 1944,VMobile
+Nelspruit,27714005115,29 03 2024,Gugu,Gcaleka,10 05 1950,VMobile
+Kimberley,27714271871,02 04 2025,Patrick,Ferrell,07 08 1975,VMobile
+Rustenburg,27716808757,05 11 2023,Guy,Kelly,25 07 1973,VMobile
+Soshanguve,27717893653,11 07 2024,Simphiwe,Nondlela,30 12 2002,VMobile
+Durban,27718448667,28 10 2023,Michael,Cooper,04 08 1957,VMobile
+Ekurhuleni,27719118275,01 11 2023,Nomthandazo,Mbuyise,01 04 1940,VMobile
+Johannesburg,27719729993,28 08 2024,Hannah,Young,04 05 1983,VMobile
+Bloemfontein,27723956054,05 08 2024,Thuthukile,Nyambose,03 09 1976,VMobile
+Johannesburg,27724778385,20 08 2023,Gugulethu,Hlophe,08 02 1961,VMobile
+Pretoria,27727400477,21 03 2025,Ruth,Griffiths,20 01 1990,VMobile
+Pretoria,27729448431,04 08 2023,Bhekizizwe,Mbokazi,02 03 1998,VMobile
+West Rand,27729675831,06 09 2024,Nomagugu,Nkomo,02 07 1990,VMobile
+Cape Town,27729817935,26 04 2025,Victor,Watts,25 05 1992,VMobile
+Cape Town,27730744349,31 05 2024,Joshua,Booth,25 03 1991,VMobile
+Welkom,27732045020,27 03 2024,Mandlakhe,Gotsholo,30 07 1994,VMobile
+Witbank,27732577687,25 06 2024,Musa,Jibela,26 11 2003,VMobile
+Soshanguve,27733191788,01 06 2025,Musa,Nodlomo,20 10 1999,VMobile
+Krugersdorp,27734011187,02 04 2025,Nobantu,Duze,27 07 1967,VMobile
+Durban,27734762586,25 12 2024,Mandlakhe,Biyase,11 10 1970,VMobile
+Rustenburg,27735515302,11 08 2023,Simphiwe,Ludonga,13 01 1943,VMobile
+Pretoria,27736548736,23 07 2023,Sandra,Harper,23 09 1988,VMobile
+West Rand,27736988792,24 05 2024,Hannah,Marquez,29 09 1966,VMobile
+Johannesburg,27738031248,05 12 2023,Mandla,Gambu,03 08 1984,VMobile
+Pretoria,27738452446,08 03 2025,Mthokozisi,Ximba,10 12 1998,VMobile
+West Rand,27739126870,19 12 2024,Nancy,Baker,28 08 1973,VMobile
+Cape Town,27739493210,05 01 2024,Gregory,Robinson,18 10 1997,VMobile
+Durban,27740348711,25 09 2023,Olwethu,Mnomiya,25 05 1941,VMobile
+Durban,27740837531,13 09 2023,Chelsea,Jackson,17 03 1989,VMobile
+Durban,27743941564,21 01 2025,Sibonelo,Ntombela,08 05 1968,VMobile
+Pretoria,27744810767,13 11 2024,Nomalanga,Ndima,22 08 2002,VMobile
+Ekurhuleni,27745858892,02 07 2024,Nhlanhla,Mzizi,08 04 2006,VMobile
+Pretoria,27746545449,26 05 2024,Gugu,Mthonti,06 09 1981,VMobile
+Cape Town,27747009358,14 09 2024,Teresa,Hurst,25 03 1998,VMobile
+Vereeniging,27748023717,13 06 2025,Sibusisiwe,Mazibuko,18 06 1943,VMobile
+Johannesburg,27749758825,11 01 2025,Nokulunga,Gedeza,23 10 2000,VMobile
+Pretoria,27750688826,30 09 2023,Thabisile,Gabhisa,08 09 2000,VMobile
+Durban,27752176619,21 11 2024,Nonjabulo,Bayeni,01 07 2004,VMobile
+Pretoria,27753154430,02 10 2023,Mark,Davies,22 05 1947,VMobile
+Vereeniging,27754907568,27 09 2024,Bhekisisa,Sokhela,16 10 1977,VMobile
+Johannesburg,27755830723,29 07 2024,Trevor,Campos,10 03 1998,VMobile
+Newcastle,27756759873,06 10 2024,Mlungisi,Vundla,05 07 1958,VMobile
+Ekurhuleni,27757293964,08 08 2023,Nobuhle,Mgilija,04 09 1952,VMobile
+West Rand,27758159426,06 05 2024,Rachel,Hayes,17 06 1956,VMobile
+Cape Town,27758744842,22 08 2024,Siphesihle,Mjwara,25 04 1988,VMobile
+Ekurhuleni,27759277187,05 01 2024,Sihawukele,Makhanya,23 10 2005,VMobile
+Vereeniging,27759568476,30 06 2024,Kendra,Galloway,18 10 1997,VMobile
+Durban,27760905385,13 03 2025,Nathan,Harris,10 05 1950,VMobile
+Cape Town,27761465695,06 10 2024,Gugulethu,Mahlase,21 08 1960,VMobile
+Cape Town,27761704638,03 02 2024,Monica,Evans,27 01 1983,VMobile
+Port Elizabeth,27763355406,15 01 2024,Heather,Thompson,17 03 1989,VMobile
+Ekurhuleni,27764031374,07 06 2025,Lungile,Siyaya,20 11 1953,VMobile
+Ekurhuleni,27765030894,05 06 2025,Jill,Miah,16 01 1981,VMobile
+Durban,27766591547,18 09 2023,Thembisile,Lukhele,19 09 1943,VMobile
+Johannesburg,27767639036,08 12 2024,Thalente,Galu,23 01 1993,VMobile
+Ekurhuleni,27767973262,31 05 2024,Nonjabulo,Nhlanhlampofu,17 05 1968,VMobile
+Port Elizabeth,27769640012,16 12 2024,Kirsty,May,02 06 1945,VMobile
+Ekurhuleni,27770570082,10 09 2023,Nomusa,Hlomuka,29 02 2004,VMobile
+Johannesburg,27770950073,06 03 2025,Georgia,Price,17 06 1956,VMobile
+Cape Town,27771192228,09 01 2025,Mario,Smith,25 10 2002,VMobile
+Cape Town,27771583203,29 10 2023,Musa,Sondisa,22 05 1999,VMobile
+Johannesburg,27772909252,11 09 2024,Amahle,Cwalile,01 10 1947,VMobile
+Vereeniging,27774230241,09 11 2024,Njabulo,Sikobi,26 07 1946,VMobile
+Cape Town,27775448067,01 04 2024,Silondile,Guliwe,29 06 1990,VMobile
+Ekurhuleni,27775957924,27 10 2023,Amanda,Martinez,27 06 1984,VMobile
+East London,27776715116,01 01 2024,Siyabonga,Hlatshwayo,31 01 1980,VMobile
+Ekurhuleni,27777008770,27 05 2025,Ashley,Bond,11 10 1945,VMobile
+Ekurhuleni,27778478997,01 10 2024,Marcus,Morris,29 09 1968,VMobile
+Krugersdorp,27779961344,31 05 2024,Langalibalele,Nyambose,22 11 1966,VMobile
+Durban,27780470523,16 08 2023,Dean,Stevens,19 07 1991,VMobile
+Johannesburg,27781311807,12 03 2025,Vincent,Read,28 09 1962,VMobile
+Cape Town,27782561720,01 05 2024,Todd,Jones,08 05 1991,VMobile
+Pretoria,27783253285,25 07 2023,Jacqueline,Sutton,13 06 1944,VMobile
+Ekurhuleni,27785690836,28 05 2024,Bhekokwakhe,Mcwaye,06 02 1979,VMobile
+Ekurhuleni,27786674547,10 03 2025,Mlungisi,Sokhela,06 04 1997,VMobile
+Cape Town,27787961134,04 03 2024,Londisizwe,Gcwabe,04 11 1980,VMobile
+Ekurhuleni,27788451269,17 04 2024,Amahle,Ndima,11 07 1966,VMobile
+Ekurhuleni,27789810620,11 04 2024,Thabisile,Cebekhulu,23 03 1964,VMobile
+East London,27790250774,08 06 2025,S'fiso,Ndawonde,03 02 1949,VMobile
+Pretoria,27790732780,26 06 2024,Matthew,Davis,04 03 1946,VMobile
+Cape Town,27790900159,01 08 2024,Julie,Marsden,08 10 1963,VMobile
+Boksburg,27791923440,13 10 2024,Mandla,Dludlu,02 02 1998,VMobile
+Johannesburg,27792348065,29 09 2024,Lucy,Wright,03 09 1994,VMobile
+Durban,27793605906,07 11 2024,Zibuyile,Sithuli,21 04 2000,VMobile
+Pretoria,27795246915,31 03 2025,Nozizwe,Lange,19 02 1954,VMobile
+Cape Town,27795825108,05 08 2024,Jennifer,Lewis,25 07 1973,VMobile
+Johannesburg,27796205527,12 02 2024,SimphiweyiNkosi,Msani,27 04 1978,VMobile
+Cape Town,27796677912,09 12 2023,Allison,Obrien,20 03 2005,VMobile
+Johannesburg,27797558478,04 09 2023,Randall,Rocha,25 10 1970,VMobile
+Ekurhuleni,27798844055,26 10 2024,Mthokozisi,Sishiya,28 03 1977,VMobile
+Pretoria,27799698904,26 10 2023,Jeffrey,Bright,07 04 1974,VMobile
+Port Elizabeth,700408017,23 12 2024,Roger,Pritchard,17 12 1998,BlueMobile
+Tshwane,704465602,08 09 2024,Johw,Tran,22 09 2003,BlueMobile
+Cape Town,700498064,05 10 2023,Sithembiso,Sabelo,02 01 1961,BlueMobile
+eThekwini,708030287,12 05 2024,Linda,Mellor,16 07 1987,BlueMobile
+Soshanguve,700536653,03 06 2025,Thabani,Phewa,20 10 1960,BlueMobile
+Soshanguve,701422836,09 10 2024,Erin,Carlson,10 10 1965,BlueMobile
+Cape Town,702126483,22 11 2023,Margaret,Wright,11 06 1971,BlueMobile
+Johannesburg,702983213,26 02 2024,Bandile,Kweyama,18 08 2002,BlueMobile
+Johannesburg,703402404,05 02 2024,Nomasonto,Ndandali,25 10 1970,BlueMobile
+Johannesburg,704552601,24 02 2025,Jill,Young,09 09 1990,BlueMobile
+Cape Town,705295490,24 01 2025,Thabisile,Mtolo,22 02 1984,BlueMobile
+Cape Town,705781665,29 09 2023,Zinhle,Dumisa,05 03 1980,BlueMobile
+Ekurhuleni,706347171,29 09 2024,Nozizwe,Hlela,21 02 2006,BlueMobile
+Johannesburg,706908401,02 01 2025,Siphesihle,Dinabantu,10 11 2005,BlueMobile
+Durban,707578628,29 09 2024,Thembile,Madonsela,17 04 1941,BlueMobile
+Port Elizabeth,708162164,29 08 2024,Sihawukele,Shoyisa,01 04 1956,BlueMobile
+Johannesburg,709138730,28 11 2023,Mlungisi,Ndwandwe,03 12 1968,BlueMobile
+Kimberley,709654582,25 10 2023,Eric,Collins,08 01 1941,BlueMobile
+East London,710361466,23 09 2024,Ross,Silva,23 03 1964,BlueMobile
+Port Elizabeth,711312486,14 09 2023,Vusumuzi,Maphindela,07 04 1974,BlueMobile
+Polokwane,711572067,04 10 2024,Mitt,Clark,10 04 1957,BlueMobile
+Ekurhuleni,712113164,17 12 2023,Ndumiso,Mkhumbuzi,17 05 1986,BlueMobile
+East Rand,712113164,17 12 2023,Ndumiso,Mkhumbuzi,17 05 1986,BlueMobile
+Pretoria,712385865,23 11 2024,Nicole,Potter,23 11 1991,BlueMobile
+Cape Town,712488797,07 03 2024,Amahle,Mdlanyoka,01 12 2004,BlueMobile
+Johannesburg,712755488,07 09 2023,Mandla,Ngobisi,27 06 1963,BlueMobile
+Johannesburg,712755488,07 09 2023,Manp,Ngobisi,27 06 1963,BlueMobile
+Ekurhuleni,713173581,13 05 2025,Julo,Howard,06 03 1944,BlueMobile
+Cape Town,714185136,15 04 2025,Thuthukile,Mawewe,25 06 1996,BlueMobile
+Cape Town,715586306,01 04 2024,Sandile,Ndonga,07 10 1958,BlueMobile
+Kaapstad,715586306,01 04 2024,Sandile,Ndonga,07 10 1958,BlueMobile
+Pretoria,715983327,06 10 2024,Timothy,Davies,21 04 2000,BlueMobile
+Ekurhuleni,717286902,31 12 2024,John,Ford,17 12 1957,BlueMobile
+Cape Town,718061525,03 06 2025,Thembisile,Majola,16 10 1966,BlueMobile
+Johannesburg,718983643,05 03 2025,Gemma,Ferguson,17 07 1959,BlueMobile
+Johannesburg,719396045,11 12 2023,Nomathalente,Phingoshe,20 07 1958,BlueMobile
+Johannesburg,719396045,11 12 2023,Nomu,Phingoshe,20 07 1958,BlueMobile
+Ekurhuleni,719961318,23 01 2024,Ndumiso,Dinangwe,17 08 1979,BlueMobile
+Cape Town,720029924,28 05 2024,Mnqo,Hlongwane,31 07 1974,BlueMobile
+Johannesburg,720125760,19 06 2024,SimphiweyiNkosi,Sikobi,03 07 2002,BlueMobile
+Johannesburg,720593040,18 06 2024,Sihawukele,Ndawo,06 05 1990,BlueMobile
+Cape Town,720714523,30 06 2024,Sandra,Sellers,07 05 1980,BlueMobile
+Klerksdorp,721198397,06 02 2025,Tomy,Warner,12 06 1965,BlueMobile
+Durban,721340588,22 12 2023,Janice,Hopkins,20 04 1968,BlueMobile
+Kaapstad,721345908,26 04 2024,Nomathalente,Gubhuza,18 10 1950,BlueMobile
+Johannesburg,722330476,05 09 2023,Silondile,Khubisa,10 10 1979,BlueMobile
+Gqeberha,722745553,26 05 2024,Katy,Smith,11 02 1985,BlueMobile
+Ekurhuleni,722747624,20 04 2024,Lwandile,Msane,08 07 1995,BlueMobile
+Ekurhuleni,722747624,20 04 2024,Lwandile,Msane,07 08 1995,BlueMobile
+Soshanguve,723131974,08 07 2024,Lynda,Davison,02 01 1954,BlueMobile
+Johannesburg,724493478,05 02 2024,Danielle,Johnson,22 04 1958,BlueMobile
+Durban,725138892,08 05 2025,Thandazile,Gcaba,12 02 1963,BlueMobile
+Durban,725463719,15 02 2024,Nomy,Ntshingila,17 09 1959,BlueMobile
+Durban,726147995,09 11 2024,Thembekile,Gubhuza,04 03 1955,BlueMobile
+Kaapstad,726176224,28 05 2025,Vanessa,Brooks,28 05 1969,BlueMobile
+Welkom,726606265,27 03 2025,Zenzile,Dindi,15 10 1961,BlueMobile
+Ekurhuleni,728019757,19 09 2024,Nozizwe,Mngwengwe,14 04 1976,BlueMobile
+Springs,728547628,05 12 2023,Janw,Williams,02 06 1955,BlueMobile
+Cape Town,728744137,04 05 2024,Simphiwe,Msamkhulu,20 08 1979,BlueMobile
+Cape Town,729603611,08 03 2024,Debra,Smith,28 03 1977,BlueMobile
+Johannesburg,729733969,02 10 2024,S'fiso,Galu,06 04 1948,BlueMobile
+Durban,729820192,27 02 2024,Anna,Baker,16 05 1979,BlueMobile
+eThekwini,729820192,27 02 2024,Anna,Baker,16 05 1979,BlueMobile
+East London,730008139,13 12 2023,Brian,Thomas,06 02 1955,BlueMobile
+Kaapstad,730744349,31 05 2024,Joshua,Booth,25 03 1991,BlueMobile
+Johannesburg,732183258,05 02 2025,Anna,Baldwin,26 04 1987,BlueMobile
+Cape Town,732960859,21 06 2024,Clare,Wilkins,03 02 1949,BlueMobile
+Soshanguve,733191788,01 06 2025,Musp,Nodlomo,20 10 1999,BlueMobile
+Johannesburg,734401930,09 01 2024,Douglas,Taylor,15 04 1990,BlueMobile
+East London,734512854,01 01 2025,Lonw,Ximba,25 05 1992,BlueMobile
+Bloemfontein,734580420,25 01 2025,Thembekile,Magononde,29 06 1993,BlueMobile
+Johannesburg,734810654,11 10 2023,Nomcebo,Ngobisi,01 08 2003,BlueMobile
+Ekurhuleni,735555294,09 09 2024,Nhlanhla,Ngazitha,08 12 1971,BlueMobile
+Cape Town,736685370,03 05 2024,Thabani,Mavela,13 01 1965,BlueMobile
+Rustenburg,737391314,26 09 2023,Thembile,Mahlinza,12 01 1981,BlueMobile
+Ekurhuleni,738285947,13 08 2024,Katy,Jones,02 01 1977,BlueMobile
+Pretoria,738452446,08 03 2025,Mthokozisi,Ximba,12 10 1998,BlueMobile
+Durban,739163904,05 06 2025,Marcus,Page,11 06 1991,BlueMobile
+Springs,739579306,24 05 2024,Thomas,Pierce,18 08 1957,BlueMobile
+Springs,739579306,24 05 2024,Thow,Pierce,18 08 1957,BlueMobile
+Ekurhuleni,739590700,27 10 2024,Kimberly,Perez,10 10 1941,BlueMobile
+Benoni,740407777,02 01 2024,Nkazimulo,Mnyoni,04 08 1957,BlueMobile
+Egoli,740678513,10 12 2024,Rita,Kaur,08 05 1954,BlueMobile
+Cape Town,741042905,24 12 2023,Nhlanhla,Sibindi,14 07 1999,BlueMobile
+Middelburg,741562035,21 10 2023,Thae,Ngidi,09 03 1994,BlueMobile
+Durban,741797104,11 08 2023,Mandla,Njinji,28 03 1998,BlueMobile
+Ekurhuleni,742020320,03 05 2025,Nothando,Shoyisa,04 12 1943,BlueMobile
+Johannesburg,743282991,31 05 2025,Jabulani,Ngazitha,25 09 1952,BlueMobile
+Klerksdorp,744036820,13 03 2025,Jesse,Garcia,05 07 1958,BlueMobile
+Polokwane,745481138,05 06 2024,Londisizwe,Zikhungwini,19 04 1997,BlueMobile
+Boksburg,746205845,14 08 2024,Mthokozisi,Sithole,04 09 1992,BlueMobile
+Springs,746721111,28 01 2025,Sandile,Magononde,16 01 1942,BlueMobile
+Cape Town,747092401,04 11 2024,Angela,Chapman,30 01 1940,BlueMobile
+West Rand,748057905,02 04 2025,Eric,Smith,23 09 1988,BlueMobile
+Pretoria,749852120,08 12 2023,Kelly,Wilkinson,23 10 2005,BlueMobile
+Johannesburg,749895634,16 02 2025,Mine,Mondise,04 06 1955,BlueMobile
+Johannesburg,749951541,15 05 2025,Nomagugu,Khabalidaka,27 02 1977,BlueMobile
+Tshwane,750688826,30 09 2023,Thabisile,Gabhisa,09 08 2000,BlueMobile
+Egoli,750711986,05 08 2023,Njai,Dumisa,29 01 1952,BlueMobile
+Cape Town,750818959,17 07 2024,Nomathemba,Mgcaleka,04 01 1946,BlueMobile
+Polokwane,753079529,23 04 2024,Thandeka,Mncube,04 06 1988,BlueMobile
+Ekurhuleni,753445274,17 09 2023,Kathleen,John,28 12 1949,BlueMobile
+Boksburg,753625790,02 11 2023,Chep,Ryan,25 10 1983,BlueMobile
+Cape Town,753729547,04 12 2024,Zinhle,Mzileni,22 12 1984,BlueMobile
+Cape Town,755026696,25 04 2025,Zenzele,Njinji,20 08 2006,BlueMobile
+Egoli,755830723,29 07 2024,Trevor,Campos,10 03 1998,BlueMobile
+Bloemfontein,756849299,13 09 2023,Nozizwe,Mzizi,14 03 2001,BlueMobile
+Cape Town,757311186,17 02 2024,Thembeka,Mchunu,18 05 2007,BlueMobile
+West Rand,758622777,08 06 2025,Thandiwe,Ndlangamandla,02 08 1975,BlueMobile
+Durban,758773144,09 09 2023,Sihawukele,Vundla,24 02 1948,BlueMobile
+Pretoria,759434978,10 09 2024,Marc,Edwards,29 09 1966,BlueMobile
+Pretoria,759434978,10 09 2024,Maro,Edwards,29 09 1966,BlueMobile
+Ekurhuleni,759967153,08 06 2025,Nonjabulo,Mzileni,08 05 1996,BlueMobile
+Pretoria,761164231,13 08 2024,Louis,Morris,08 04 1976,BlueMobile
+Johannesburg,761477359,16 08 2024,Linda,Wolfe,29 09 1962,BlueMobile
+Johannesburg,761935085,19 11 2023,Andile,Nowanqa,12 02 1959,BlueMobile
+Pretoria,763379489,08 08 2024,Khanyisile,Mpumuza,05 10 1954,BlueMobile
+Welkom,764351821,26 11 2023,Zenzile,Mgwaba,17 05 1964,BlueMobile
+Ekurhuleni,765054595,22 12 2023,Nobuhle,Mbembe,12 10 1964,BlueMobile
+East Rand,765569160,08 03 2025,Mnqw,Dlamane,03 08 1994,BlueMobile
+Cape Town,766307074,23 07 2023,Kayleigh,Burns,27 01 1983,BlueMobile
+Cape Town,767240786,04 05 2025,Rhys,Davies,08 05 1987,BlueMobile
+Vereeniging,767399287,16 06 2024,Dunw,Humphries,31 05 1965,BlueMobile
+Johannesburg,767578966,15 01 2024,Mthokozisi,Myeni,17 08 1952,BlueMobile
+Benoni,767768686,08 02 2024,Thembile,Nkundlande,26 12 1973,BlueMobile
+Johannesburg,768138021,09 01 2024,Jeffrey,Nguyen,16 11 1991,BlueMobile
+Cape Town,768158896,22 07 2023,Thembisile,Shelembe,03 08 1947,BlueMobile
+Johannesburg,768741126,28 04 2024,Jeffery,Wagner,25 05 1941,BlueMobile
+Port Elizabeth,769640012,16 12 2024,Kirt,May,02 06 1945,BlueMobile
+Ekurhuleni,770570082,10 09 2023,Nomr,Hlomuka,29 02 2004,BlueMobile
+West Rand,770953276,20 07 2023,Lwandile,Mhlanga,28 08 1989,BlueMobile
+Vereeniging,771440865,24 07 2023,Ndumiso,Ngidi,04 03 1950,BlueMobile
+Durban,771918275,16 04 2025,Nomthandazo,Ngema,04 08 1942,BlueMobile
+Johannesburg,774160565,07 10 2024,Linda,Shaw,09 03 1996,BlueMobile
+Durban,775025294,24 11 2023,Brandon,Jones,16 03 1947,BlueMobile
+Vereeniging,775593486,09 08 2024,Bhekisisa,Khubisa,17 07 1994,BlueMobile
+Johannesburg,776010419,21 07 2024,Sheila,Mitchell,15 07 1986,BlueMobile
+Durban,776745900,15 11 2024,Nomvula,Mbhodwe,12 08 1987,BlueMobile
+Benoni,777782468,11 09 2024,Mathew,Scott,22 02 1983,BlueMobile
+Johannesburg,778724103,10 09 2024,Anthony,Taylor,28 12 1949,BlueMobile
+Johannesburg,779152086,13 01 2025,Kart,Carter,18 04 1976,BlueMobile
+Durban,779234888,07 08 2024,Zenzile,Sijadu,06 10 1994,BlueMobile
+Ekurhuleni,780056550,11 03 2024,Nqobizitha,Khuzwayo,09 01 1991,BlueMobile
+Johannesburg,781102199,13 01 2025,Thandeka,Mzila,28 03 1951,BlueMobile
+Ekurhuleni,782499920,18 01 2024,Zibuyile,Mathula,15 02 1962,BlueMobile
+East Rand,782499920,18 01 2024,Zibuyile,Mathula,15 02 1962,BlueMobile
+Polokwane,782686315,20 07 2024,Thando,Mahlalela,21 08 1957,BlueMobile
+Durban,783581201,19 12 2024,John,Taylor,26 07 1946,BlueMobile
+Ekurhuleni,785690836,28 05 2024,Bheq,Mcwaye,06 02 1979,BlueMobile
+Paarl,786740905,14 11 2024,Ricky,Price,08 05 1996,BlueMobile
+Polokwane,788255410,15 06 2024,Londisizwe,Gotsholo,02 01 1943,BlueMobile
+Polokwane,788255410,15 06 2024,Londisizwe,Gotsholo,01 02 1943,BlueMobile
+Cape Town,788798367,21 09 2023,Langalibalele,Khomo,23 09 1954,BlueMobile
+Egoli,789209708,05 02 2024,Dant,Burton,29 06 1993,BlueMobile
+Ekurhuleni,789600650,27 10 2024,Sihawukele,Sothole,30 09 1957,BlueMobile
+Ekurhuleni,789810620,11 04 2024,Thaq,Cebekhulu,23 03 1964,BlueMobile
+Johannesburg,790328958,11 10 2023,Lungile,Ntanzi,28 05 1964,BlueMobile
+Durban,790781178,19 09 2023,Mary,Anderson,10 10 1965,BlueMobile
+Johannesburg,791549028,07 03 2024,Sphiwe,Mathula,13 02 1970,BlueMobile
+Cape Town,792106918,15 03 2024,Ryan,Holland,21 06 1954,BlueMobile
+Botshabelo,792624290,22 09 2024,Nomthandazo,Dlungwana,14 08 1941,BlueMobile
+Durban,793605906,07 11 2024,Zibu,Sithuli,21 04 2000,BlueMobile
+Johannesburg,795728959,09 11 2023,Stacey,Miller,30 04 1948,BlueMobile
+Johannesburg,795728959,09 11 2023,Stau,Miller,30 04 1948,BlueMobile
+Kimberley,795885602,09 09 2023,Bhekisisa,Mphephethwa,13 12 1943,BlueMobile
+Bloemfontein,796509072,09 02 2025,Phillip,Johnston,10 03 1978,BlueMobile
+Botshabelo,796967165,30 01 2024,Nomagugu,Ayize,22 08 2006,BlueMobile
+Witbank,798062959,08 10 2023,Mandla,Yei,24 07 1965,BlueMobile
+Egoli,798290960,27 07 2024,Veronica,Bowman,29 06 1977,BlueMobile
+Johannesburg,798418621,23 01 2025,Simphiwe,Mbhense,18 08 1957,BlueMobile
+East Rand,798844055,26 10 2024,Mthokozisi,Sishiya,28 03 1977,BlueMobile
+Pretoria,799698904,26 10 2023,Jefy,Bright,07 04 1974,BlueMobile
+Pretoria,27704465602,08 09 2024,John,Tran,,ArrowMobile
+Durban,27708030287,12 05 2024,Linda,Mellor,,ArrowMobile
+Ekurhuleni,27700594567,20 07 2023,Donald,Lowe,,ArrowMobile
+Welkom,27701525711,17 07 2023,Sibongile,Gxabhashe,,ArrowMobile
+Pietermaritzburg,27702796440,05 12 2024,Lewis,Evans,,ArrowMobile
+Cape Town,27703027009,29 06 2024,Luyanda,Madinane,,ArrowMobile
+Boksburg,27703678152,07 02 2025,Busisiwe,Hadebe,,ArrowMobile
+Johannesburg,27704702209,02 05 2025,Andile,Sangweni,,ArrowMobile
+Soshanguve,27705723746,29 11 2023,Bandile,Ngungunyana,,ArrowMobile
+Pretoria,27705989494,27 10 2024,Thembeka,Sontuli,,ArrowMobile
+West Rand,27706374564,31 03 2025,Bhekisisa,Ndiyema,,ArrowMobile
+Ekurhuleni,27707033903,11 08 2024,Sibusisiwe,Mtolo,,ArrowMobile
+Pietermaritzburg,27707724345,12 01 2024,Donald,Taylor,,ArrowMobile
+Cape Town,27708208823,21 10 2024,Silondile,Nyawo,,ArrowMobile
+East London,27709188166,13 08 2023,Nozizwe,Mawewe,,ArrowMobile
+Bloemfontein,27709798813,23 09 2023,Thabisa,Mgenge,,ArrowMobile
+Welkom,27710816964,14 08 2023,Nomcebo,Mntimande,,ArrowMobile
+West Rand,27711513959,28 08 2023,Dumisani,Jobe,,ArrowMobile
+Klerksdorp,27711688823,18 07 2024,Joan,Naylor,,ArrowMobile
+Cape Town,27712488797,07 03 2024,Amahle,Mdlanyoka,,ArrowMobile
+Polokwane,27713677185,17 04 2024,Simphiwe,Makhoba,,ArrowMobile
+George,27714247268,25 02 2025,Mandla,Mtuswa,,ArrowMobile
+Kaapstad,27715586306,01 04 2024,Sandile,Ndonga,,ArrowMobile
+Thohoyandou,27716126226,07 10 2024,Dumisani,Musi,,ArrowMobile
+Pretoria,27717601695,14 10 2024,Jason,Hahn,,ArrowMobile
+Ekurhuleni,27718136627,24 05 2025,Ashley,Miller,,ArrowMobile
+Ekurhuleni,27719015850,04 12 2023,Sihawukele,Nongalo,,ArrowMobile
+Cape Town,27720029924,28 05 2024,Mnqobi,Hlongwane,,ArrowMobile
+Johannesburg,27720593040,18 06 2024,Sihawukele,Ndawo,,ArrowMobile
+Klerksdorp,27721198397,06 02 2025,Tom,Warner,,ArrowMobile
+Cape Town,27721345908,26 04 2024,Nomathalente,Gubhuza,,ArrowMobile
+Port Elizabeth,27722745553,26 05 2024,Katherine,Smith,,ArrowMobile
+Ekurhuleni,27722747624,20 04 2024,Lwat,Msane,,ArrowMobile
+Cape Town,27723484978,08 11 2023,Mlungisi,Jama,,ArrowMobile
+Port Elizabeth,27724545371,11 07 2024,Zakhele,Mabika,,ArrowMobile
+Durban,27725463719,15 02 2024,Nomathalente,Ntshingila,,ArrowMobile
+Cape Town,27726176224,28 05 2025,Vanessa,Brooks,,ArrowMobile
+Newcastle,27727246392,20 07 2023,Jabulani,Mafulela,,ArrowMobile
+Springs,27728547628,05 12 2023,Janet,Williams,,ArrowMobile
+Cape Town,27728781369,20 06 2024,Antony,Buckley,,ArrowMobile
+Durban,27729619869,01 12 2024,Sibusisiwe,Andile,,ArrowMobile
+Ekurhuleni,27729817295,04 09 2023,Amahle,Ngobese,,ArrowMobile
+Durban,27729820192,27 02 2024,Annt,Baker,,ArrowMobile
+Johannesburg,27730210420,18 11 2024,Amelia,Oliver,,ArrowMobile
+Cape Town,27731726871,30 08 2023,Charlene,Randall,,ArrowMobile
+Welkom,27732301840,09 04 2025,Jason,Ryan,,ArrowMobile
+Vereeniging,27733128243,20 01 2024,Siphesihle,Mnangwe,,ArrowMobile
+Newcastle,27733195138,14 03 2024,Amahle,Magujwa,,ArrowMobile
+East London,27734512854,01 01 2025,Londiwe,Ximba,,ArrowMobile
+East London,27734719249,13 06 2024,Chad,Welch,,ArrowMobile
+West Rand,27735045002,27 05 2024,Siphesihle,Ngcolosi,,ArrowMobile
+Durban,27736463373,26 12 2023,Gugu,Mnyandu,,ArrowMobile
+Durban,27736732237,26 10 2023,Zinhle,Ndabansele,,ArrowMobile
+Klerksdorp,27737674304,15 11 2024,Danielle,Sharp,,ArrowMobile
+Ekurhuleni,27738312041,31 05 2024,Lungile,Nzimande,,ArrowMobile
+Cape Town,27738718563,28 04 2025,Kyle,Brown,,ArrowMobile
+Durban,27739228461,28 09 2024,Mcebisi,Dubandlela,,ArrowMobile
+Springs,27739579306,24 05 2024,Thoe,Pierce,,ArrowMobile
+Johannesburg,27740027276,20 05 2025,Mzamo,Sembathwa,,ArrowMobile
+Johannesburg,27740678513,10 12 2024,Rita,Kaur,,ArrowMobile
+Johannesburg,27740678513,10 12 2024,Ritw,Kaur,,ArrowMobile
+Johannesburg,27740715738,12 11 2024,Brittany,Johnson,,ArrowMobile
+Middelburg,27741562035,21 10 2023,Thalente,Ngidi,,ArrowMobile
+Ekurhuleni,27742020320,03 05 2025,Nothando,Shoyisa,,ArrowMobile
+Cape Town,27743417384,19 08 2023,William,Gonzalez,,ArrowMobile
+Durban,27744146237,05 12 2023,Guy,Alexander,,ArrowMobile
+Kimberley,27745495609,04 08 2023,Thomas,Reed,,ArrowMobile
+Ekurhuleni,27746332321,23 02 2024,Thandazile,Khathide,,ArrowMobile
+Cape Town,27746984621,17 04 2024,Rachael,Pritchard,,ArrowMobile
+Johannesburg,27747753873,28 01 2025,Njabulo,Ndabezitha,,ArrowMobile
+Cape Town,27748419705,16 07 2023,Sibonelo,Mavundla,,ArrowMobile
+Johannesburg,27749895634,16 02 2025,Minenhle,Mondise,,ArrowMobile
+Cape Town,27750383551,05 01 2025,Mcebisi,Mshikela,,ArrowMobile
+Johannesburg,27750711986,05 08 2023,Njabulo,Dumisa,,ArrowMobile
+Port Elizabeth,27751166645,22 03 2024,Luyanda,Kubheka,,ArrowMobile
+Newcastle,27753131305,17 02 2025,Busisiwe,Nyanda,,ArrowMobile
+Boksburg,27753625790,02 11 2023,Chelsea,Ryan,,ArrowMobile
+Nelspruit,27754088048,18 08 2024,Thabani,Jamile,,ArrowMobile
+Vereeniging,27755709632,07 01 2025,Nomathalente,Nhlane,,ArrowMobile
+East London,27756114668,21 05 2025,Owethu,Mafulela,,ArrowMobile
+Krugersdorp,27757073185,08 09 2024,Ryan,Taylor,,ArrowMobile
+Witbank,27758098548,03 01 2025,Carole,Matthews,,ArrowMobile
+Cape Town,27758744686,29 04 2025,Teresa,Walsh,,ArrowMobile
+Johannesburg,27758901102,10 01 2024,Mthokozisi,Mthethwa,,ArrowMobile
+Durban,27760632550,28 03 2025,Thabisa,Mgcaleka,,ArrowMobile
+Cape Town,27761389488,21 07 2024,Londisizwe,Ndaba,,ArrowMobile
+Cape Town,27761598472,05 10 2023,Thabisile,Mdaka,,ArrowMobile
+Durban,27762338119,18 07 2024,Melanie,Bell,,ArrowMobile
+Johannesburg,27763735255,24 01 2024,Joshua,Lewis,,ArrowMobile
+Cape Town,27764364545,07 02 2024,Busisiwe,Mzulwini,,ArrowMobile
+Ekurhuleni,27765569160,08 03 2025,Mnqobi,Dlamane,,ArrowMobile
+Krugersdorp,27766354480,13 04 2025,Alexander,Le,,ArrowMobile
+Vereeniging,27767399287,16 06 2024,Duncan,Humphries,,ArrowMobile
+Ekurhuleni,27767632849,09 09 2024,Erica,Mcclain,,ArrowMobile
+Klerksdorp,27767843485,28 02 2025,Mohammad,Smith,,ArrowMobile
+Cape Town,27768158896,22 07 2023,Thembisile,Shelembe,,ArrowMobile
+Johannesburg,27769031933,06 06 2025,Bhekokwakhe,Mbatha,,ArrowMobile
+Cape Town,27769652162,29 10 2024,Linda,Morales,,ArrowMobile
+Durban,27770945460,27 07 2024,Thando,Ndlela,,ArrowMobile
+Cape Town,27771177580,07 09 2024,Danielle,Rodriguez,,ArrowMobile
+West Rand,27771477596,21 06 2024,Kathryn,Ryan,,ArrowMobile
+East London,27771920365,27 12 2024,Shawn,Flowers,,ArrowMobile
+Cape Town,27774163254,15 02 2025,Mcebisi,Khosini,,ArrowMobile
+Pretoria,27775270396,26 07 2023,SimphiweyiNkosi,Dlambula,,ArrowMobile
+Port Elizabeth,27775640687,05 05 2024,Thando,Mavundla,,ArrowMobile
+Uitenhage,27776328452,29 04 2024,Zenzile,Phuthini,,ArrowMobile
+Pretoria,27776874455,29 04 2024,Bandile,Nkwanyana,,ArrowMobile
+Durban,27777937454,18 09 2024,Wanda,Santos,,ArrowMobile
+Johannesburg,27779152086,13 01 2025,Karen,Carter,,ArrowMobile
+Cape Town,27779545098,16 04 2024,Bhekokwakhe,Mafobo,,ArrowMobile
+Cape Town,27780348072,15 01 2024,Amahle,Mbhobho,,ArrowMobile
+Bloemfontein,27781238778,20 10 2023,Zenzile,Phuthini,,ArrowMobile
+Boksburg,27782940238,26 03 2025,Nobantu,Mlondo,,ArrowMobile
+Soshanguve,27784301965,27 10 2023,Andile,Thumbela,,ArrowMobile
+Cape Town,27786671547,27 12 2023,Khanyisile,Mthethwa,,ArrowMobile
+West Rand,27787356407,18 07 2024,Kathleen,Romero,,ArrowMobile
+Johannesburg,27789209708,05 02 2024,Daniel,Burton,,ArrowMobile
+Pietermaritzburg,27789793342,25 10 2023,Amy,Robinson,,ArrowMobile
+Vereeniging,27790022877,07 06 2024,Zibuyile,Ndlandla,,ArrowMobile
+Johannesburg,27790681902,28 10 2024,Nhlanhla,Nhlane,,ArrowMobile
+Bloemfontein,27790892604,23 04 2025,Dumisile,Mazwi,,ArrowMobile
+Polokwane,27791653270,25 01 2025,Vusumuzi,Bhovungana,,ArrowMobile
+Soshanguve,27792273093,04 02 2025,Mthokozisi,Kubheka,,ArrowMobile
+Newcastle,27792936129,06 04 2025,Nhlanhla,Shandu,,ArrowMobile
+Durban,27795199855,07 01 2025,Thabisile,Khuzwayo,,ArrowMobile
+Nelspruit,27796004479,28 10 2024,SimphiweyiNkosi,Mahlinza,,ArrowMobile
+Johannesburg,27796664125,26 06 2024,Thandazile,Fakude,,ArrowMobile
+Durban,27797256727,21 09 2024,Bhekokwakhe,Dwala,,ArrowMobile
+Johannesburg,27798290960,27 07 2024,Veronica,Bowman,,ArrowMobile
+Krugersdorp,27798562157,24 07 2024,Jeffrey,Morgan,,ArrowMobile
+Soshanguve,27799314934,15 11 2023,Gerald,Bailey,,ArrowMobile
+Benoni,27799933613,29 09 2024,Sithembiso,Mvubu,,ArrowMobile
